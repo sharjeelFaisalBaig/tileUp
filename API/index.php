@@ -1,0 +1,1 @@
+<h1 style="width: 100%;text-align:center;color:red;">SILENCE IS GOLDEN</h1>   
